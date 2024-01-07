@@ -1,7 +1,5 @@
-# ElanBT
+# ElanBT – Instructions for a DIY wireless ElanScan interface
 Cheap Bluetooth to ALDL interface for GM cars and specifically the Lotus Elan M100
-
-ElanBT – Instructions for a DIY wireless ElanScan interface
 
 ElanBT is a prototype for a wireless ElanScan interface that you can build yourself. 
 It allows a laptop with Bluetooth to run ElanScan wirelessly via a virtual COM-Port.
