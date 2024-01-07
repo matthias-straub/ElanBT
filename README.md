@@ -10,6 +10,10 @@ It will also work with ALDLdroid and ALDL Scan on Android phones, given the righ
 
 It is a prototype, as the components are big and ugly, but can be purchased and put together easily. Nevertheless, this prototype fully works, and if you can live with its looks, or if you hide it under the glove box next to the ALDL connector, this can be made suitable for day to day use.
 
+Comments on the photos of the prototype:
+The three dangling lines on the right hand side picture go to the ALDL connector on the Elan (black to A[Ground], purple to G[data] and red to F[12volts]). 
+For testing purposes, I chose to do without a proper OBD1 connector.
+
 Parts list
 This is the list of parts, that you require. It is similar to the parts needed for ElanLogger (a separate project that provides a stand-alone data logger for the Elan).
 
