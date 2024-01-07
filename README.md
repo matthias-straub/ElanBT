@@ -14,7 +14,8 @@ Comments on the photos of the prototype:
 The three dangling lines on the right hand side picture go to the ALDL connector on the Elan (black to A[Ground], purple to G[data] and red to F[12volts]). 
 For testing purposes, I chose to do without a proper OBD1 connector.
 
-Parts list
+Parts list:
+
 This is the list of parts, that you require. It is similar to the parts needed for ElanLogger (a separate project that provides a stand-alone data logger for the Elan).
 
 - 1 	Arduino Uno development board
